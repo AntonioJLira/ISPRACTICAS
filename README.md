@@ -10,6 +10,6 @@
 * lista 2
   * lista 2.1
 
-#Encabezado nivel 1
-##Encabezado nivel 2
-###Asi susesivamente hasta el 6
+# Encabezado nivel 1
+## Encabezado nivel 2
+### Asi susesivamente hasta el 6
