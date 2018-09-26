@@ -15,4 +15,12 @@
 ### Asi susesivamente hasta el 6
 
 > Esto es unna puta cita.Antonio X el Grande
+
 `git_init`
+
+~~~
+asdfsdfsafasdf
+asdfsadfsdsdfasdf
+asdfad
+asdf
+~~~
